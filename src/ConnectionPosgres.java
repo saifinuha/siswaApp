@@ -1,3 +1,7 @@
+// Saifin Nuha
+// 240401010257
+// IF503
+// Pemrograman Berorientasi Objek
 import java.sql.Connection;
 import java.sql.DriverManager;
 import java.sql.SQLException;

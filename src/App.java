@@ -1,3 +1,7 @@
+// Saifin Nuha
+// 240401010257
+// IF503
+// Pemrograman Berorientasi Objek
 import javax.swing.*;
 import javax.swing.table.DefaultTableModel;
 import java.awt.*;
